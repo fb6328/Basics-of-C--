@@ -5,5 +5,6 @@ int main()           // Main function. Begining point of CPU when processing thi
     cout << "Today's class is \t online via Zoom\n"; // Simple output of a text/string
     cout << "Dear DBIT Class.\\r";
     cout << "It's end-year already!\\a";
+    
     return 0;
 }
