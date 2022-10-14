@@ -1,5 +1,5 @@
 #include <iostream>
-#include <string>
+//#include <string>
 using namespace std;
 
 int main()
@@ -17,7 +17,7 @@ int main()
     myNum = 2;
     age = 25;
     year = 2022;
-    gender = 'M';
+    gender = 'Male';
     phone = "0710240708";
     present = true;
     temp = 36.01;
